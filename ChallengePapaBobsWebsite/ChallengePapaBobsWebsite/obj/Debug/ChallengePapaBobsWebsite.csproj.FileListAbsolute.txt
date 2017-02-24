@@ -1,0 +1,6 @@
+C:\Users\Student\documents\visual studio 2013\Projects\ChallengePapaBobsWebsite\ChallengePapaBobsWebsite\bin\ChallengePapaBobsWebsite.dll.config
+C:\Users\Student\documents\visual studio 2013\Projects\ChallengePapaBobsWebsite\ChallengePapaBobsWebsite\bin\ChallengePapaBobsWebsite.dll
+C:\Users\Student\documents\visual studio 2013\Projects\ChallengePapaBobsWebsite\ChallengePapaBobsWebsite\bin\ChallengePapaBobsWebsite.pdb
+C:\Users\Student\documents\visual studio 2013\Projects\ChallengePapaBobsWebsite\ChallengePapaBobsWebsite\obj\Debug\ChallengePapaBobsWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2013\Projects\ChallengePapaBobsWebsite\ChallengePapaBobsWebsite\obj\Debug\ChallengePapaBobsWebsite.dll
+C:\Users\Student\documents\visual studio 2013\Projects\ChallengePapaBobsWebsite\ChallengePapaBobsWebsite\obj\Debug\ChallengePapaBobsWebsite.pdb
